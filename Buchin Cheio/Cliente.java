@@ -1,3 +1,4 @@
+package Buchin.Cheio;
 public class Cliente {
     //Atributos
     private String nome;

@@ -1,3 +1,4 @@
+package Buchin.Cheio;
 public abstract class Comanda {
     //Atributos
     protected String consumo;

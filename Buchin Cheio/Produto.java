@@ -1,3 +1,4 @@
+package Buchin.Cheio;
 public class Produto {
     // Atributos
     private String nome;
